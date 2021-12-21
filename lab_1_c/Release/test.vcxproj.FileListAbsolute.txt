@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\lab_1_c\lab_1_c\Release\test.exe
+C:\Users\User\Desktop\lab_1_c (верная)\lab_1_c\Release\test.exe
+D:\БГУ_2курс_3сем\СистемноеПрограммирование\lab_1_c (верная)\lab_1_c\Release\test.exe

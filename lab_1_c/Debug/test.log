@@ -1,0 +1,5 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  splpv1.c
+C:\Users\User\Desktop\lab_1_c\lab_1_c\splpv1.c(127,23): warning C4013: strcmp: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\Desktop\lab_1_c\lab_1_c\splpv1.c(193,24): warning C4013: strncmp: нет определения; предполагается "extern" с возвратом типа "int"
+  test.vcxproj -> C:\Users\User\Desktop\lab_1_c\lab_1_c\.\Debug\test.exe
